@@ -5,3 +5,4 @@ The simulation will employ computational methods like by using Monte_carlo metho
 
 
 ![Brain-tumor-illustration-demonstrating-laser-interstitial-thermal-therapy-LITT-A](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/e3c295ef-08aa-4b85-997d-576697364d02)
+Page, R. C., Ricca, G. F., &amp; Dohan, F. C. (1990). Hyperthermia for the treatment of brain tumors. Advances in Experimental Medicine and Biology, 145–153. https://doi.org/10.1007/978-1-4684-5766-7_12 
