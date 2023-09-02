@@ -18,5 +18,7 @@ Our current work utilizes a two-dimensional axisymmetric model, but future itera
 The question of whether a photon is absorbed or scattered at a new location is determined by comparing a random number with the probabilities for absorption and scattering processes. These probabilities are developed using a Taylor series expansion, and are applicable for small step sizes.
 
 $P_{\text {absorption }}=1-\exp \left(-\mu_{\mathrm{a}} \Delta s\right)=\mu_{\mathrm{a}} \Delta \mathrm{s}$
+
 $\mathrm{p}_{\mathrm{scattering}, \mathrm{HG}}=1-\exp \left(-\mu_s \Delta \mathrm{s}\right)=\mu_s \Delta \mathrm{s}$;
+
 $\mathrm{p}_{\text {sacattering, Iso }}=1-\exp \left(-\mu_3^{\prime} \Delta s\right) \approx \mu_3^{\prime} \Delta s$;
