@@ -28,8 +28,9 @@ Our current work utilizes a two-dimensional axisymmetric model, but future itera
 
 ### Heat Source and Heat distribution
 
-![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/d4d971e3-8756-475d-8a10-fbdb900c8940)
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/3bee1a99-16ef-4db2-8fba-4680e2f96a5c)
 
 ![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/beff3957-66d6-49d2-9c5e-29637b878506)
 
-![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/72e062ec-eb8d-4052-8795-8afae0c61e90)
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/869749aa-2d37-49e5-b104-bddb41564cc7)
+
