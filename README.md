@@ -14,12 +14,22 @@ Our current work utilizes a two-dimensional axisymmetric model, but future itera
  The internal light intensity, or interstitial fluence rate, was determined through Monte-Carlo simulations that traced the paths of individual photons. These simulations were based on the optical properties of the tissue that had been measured. To account for the spatial variations in these optical properties and to facilitate the computation of heat conduction, the area of focus was divided into cylindrical volume units, also known as voxels. Each voxel was assigned its own unique optical and thermal characteristics. The light source is configured as a cylinder with a diameter of 1.8 mm and a length of 7 mm. Light is emitted uniformly along the Z-axis of the cylinder. The radial emission angle φ ranges from 0 to 360 degrees and is randomly and uniformly distributed. The axial divergence angle is also randomly and uniformly distributed between -90 and 90 degrees. The total number of emitted photons is 200,000.
  ![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/0fb4e1a8-653d-416c-b2ec-088a906e8768)
 
-### Monte_Carlo photon distribution calculation
-The question of whether a photon is absorbed or scattered at a new location is determined by comparing a random number with the probabilities for absorption and scattering processes. These probabilities are developed using a Taylor series expansion, and are applicable for small step sizes.
-
+## 详细的计算过程在PDF文件中有介绍，以下主要展示计算仿真程序的结果
 
 ### Results of Monte_Carlo photon distribution calculations
 
 ![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/47e4861d-4930-449a-b82f-c35af4950f07)
 
-Heat Source and Heat distribution
+
+### Heat Source and Heat distribution (2D-coordinate system of columns)
+
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/d661724e-b195-4bc5-9b48-a84b602db916)
+
+
+### Heat Source and Heat distribution
+
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/d4d971e3-8756-475d-8a10-fbdb900c8940)
+
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/beff3957-66d6-49d2-9c5e-29637b878506)
+
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/72e062ec-eb8d-4052-8795-8afae0c61e90)
