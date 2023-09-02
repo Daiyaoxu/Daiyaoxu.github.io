@@ -4,3 +4,4 @@ This is a simulation project of laser induced interstitial thermotherapy, also k
 The simulation will employ computational methods like by using Monte_carlo method and Finite Difference Analysis (FDA) to solve the heat equation in a biological medium. This will help us understand the temperature distribution within the tissue during the LITT procedure. Additionally, we will incorporate real-time feedback mechanisms to adapt the laser parameters for optimal treatment outcomes. The project will also explore the safety margins by simulating potential risks such as overheating and thermal damage to adjacent tissues.
 
 
+![Brain-tumor-illustration-demonstrating-laser-interstitial-thermal-therapy-LITT-A](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/e3c295ef-08aa-4b85-997d-576697364d02)
