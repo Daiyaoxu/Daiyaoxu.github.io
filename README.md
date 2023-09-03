@@ -7,6 +7,8 @@ Page, R. C., Ricca, G. F., &amp; Dohan, F. C. (1990). Hyperthermia for the treat
 
 ## Abstract
 
+这份工作来自..
+
 This is a simulation project of laser induced interstitial thermotherapy, also known as LITT. Laser-Induced Interstitial Thermotherapy (LITT) is a minimally invasive medical procedure that utilizes laser energy to generate heat, thereby treating targeted tissues. In this simulation project, we aim to model the complex interactions between laser light and biological tissues to optimize the LITT process. The project will focus on various parameters such as laser power, and exposure time, as well as tissue properties like thermal conductivity and absorption coefficients.
 
 Our current work utilizes a two-dimensional axisymmetric model, but future iterations will incorporate three-dimensional models and asymmetric laser designs. We also plan to integrate control algorithms, including PID, LQR, and optimization controls, to adapt laser parameters in real-time for optimal treatment outcomes. Furthermore, the project will explore safety margins by simulating potential risks, such as overheating and thermal damage to adjacent tissues. Through these simulations, we aim to provide quantitative metrics for a new concept of applied laser dosage, thereby enhancing the efficacy and safety of LITT treatments.
