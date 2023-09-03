@@ -15,6 +15,7 @@ Our current work utilizes a two-dimensional axisymmetric model, but future itera
 
  The internal light intensity, or interstitial fluence rate, was determined through Monte-Carlo simulations that traced the paths of individual photons. These simulations were based on the optical properties of the tissue that had been measured. To account for the spatial variations in these optical properties and to facilitate the computation of heat conduction, the area of focus was divided into cylindrical volume units, also known as voxels. Each voxel was assigned its own unique optical and thermal characteristics. The light source is configured as a cylinder with a diameter of 1.8 mm and a length of 7 mm. Light is emitted uniformly along the Z-axis of the cylinder. The radial emission angle φ ranges from 0 to 360 degrees and is randomly and uniformly distributed. The axial divergence angle is also randomly and uniformly distributed between -90 and 90 degrees. The total number of emitted photons is 200,000.
 ![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/0fb4e1a8-653d-416c-b2ec-088a906e8768)
+Roggan, A., Mueller, G. J. (1994). Dosimetry and computer-based irradiation planning for laser-induced interstitial thermotherapy (LITT);. https://doi.org/10.1117/12.197569 
 
 ## The detailed calculation process is described in the PDF file, the following mainly shows the results of the computational simulation program
 
