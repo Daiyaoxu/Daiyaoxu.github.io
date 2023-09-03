@@ -7,9 +7,7 @@ Page, R. C., Ricca, G. F., &amp; Dohan, F. C. (1990). Hyperthermia for the treat
 
 ## Abstract
 
-这份工作来自..
-
-This is a simulation project of laser induced interstitial thermotherapy, also known as LITT. Laser-Induced Interstitial Thermotherapy (LITT) is a minimally invasive medical procedure that utilizes laser energy to generate heat, thereby treating targeted tissues. In this simulation project, we aim to model the complex interactions between laser light and biological tissues to optimize the LITT process. The project will focus on various parameters such as laser power, and exposure time, as well as tissue properties like thermal conductivity and absorption coefficients.
+This is a simulation project of laser induced interstitial thermotherapy, also known as LITT. Laser-Induced Interstitial Thermotherapy (LITT) is a minimally invasive medical procedure that utilizes laser energy to generate heat, thereby treating targeted tissues. In this simulation project, we aim to model the complex interactions between laser light and biological tissues to optimize the LITT process. The project will focus on various parameters such as laser power, and exposure time, as well as tissue properties like thermal conductivity and absorption coefficients."Mainly focused on replicating the work done in the previous article 'Dosimetry and computer-based irradiation planning for laser-induced interstitial thermotherapy (LITT)'.
 
 Our current work utilizes a two-dimensional axisymmetric model, but future iterations will incorporate three-dimensional models and asymmetric laser designs. We also plan to integrate control algorithms, including PID, LQR, and optimization controls, to adapt laser parameters in real-time for optimal treatment outcomes. Furthermore, the project will explore safety margins by simulating potential risks, such as overheating and thermal damage to adjacent tissues. Through these simulations, we aim to provide quantitative metrics for a new concept of applied laser dosage, thereby enhancing the efficacy and safety of LITT treatments.
 
@@ -22,13 +20,11 @@ Roggan, A., Mueller, G. J. (1994). Dosimetry and computer-based irradiation plan
 
 ### Results of Monte_Carlo photon distribution calculations
 
-![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/47e4861d-4930-449a-b82f-c35af4950f07)
-
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/4ebc890a-4e07-4043-87ce-ad25bd71929d)
 
 ### Heat Source and Heat distribution (2D-coordinate system of columns)
 
-![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/d661724e-b195-4bc5-9b48-a84b602db916)
-
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/8ac808ac-162a-4969-8c82-33e64ae0155b)
 
 ###  Temperature distribution time-space
 
