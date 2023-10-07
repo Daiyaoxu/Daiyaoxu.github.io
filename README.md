@@ -35,3 +35,8 @@ Roggan, A., Mueller, G. J. (1994). Dosimetry and computer-based irradiation plan
 
 ![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT-/assets/130887176/869749aa-2d37-49e5-b104-bddb41564cc7)
 
+
+## Further work
+3D simulation in tissue
+![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT/assets/130887176/51a834c3-578c-4c89-9019-a4e1b807d69a)
+
