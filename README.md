@@ -37,6 +37,11 @@ Roggan, A., Mueller, G. J. (1994). Dosimetry and computer-based irradiation plan
 
 
 ## Further work
-3D simulation in tissue
+
+
+In our later work, we incorporated implicit solving techniques and utilized sparse matrices. This not only boosted our flexibility in problem-solving but also hastened our approach to tackling high-dimensional challenges. Furthermore, many computational instability issues were optimized.
+
 ![image](https://github.com/Daiyaoxu/Simulation-of-laser-induced-interstitial-thermotherapy-LITT/assets/130887176/51a834c3-578c-4c89-9019-a4e1b807d69a)
+
+3D simulation of LITT in tissue
 
