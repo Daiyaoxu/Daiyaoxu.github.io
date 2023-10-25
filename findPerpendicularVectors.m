@@ -2,7 +2,8 @@ function [perp1, perp2] = findPerpendicularVectors(vec)
     % 为给定的向量找到两个正交的单位向量
     if vec(1) == 0 && vec(2) == 0
         if vec(3) == 0
-            % vec is [0,0,0]. Return default perpendicular vectors.
+           
+            
             perp1 = [1,0,0];
             perp2 = [0,1,0];
             return;
