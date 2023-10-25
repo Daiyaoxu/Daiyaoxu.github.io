@@ -4,8 +4,6 @@ function [Sum_Q_slide_sym,total_sum_Q,Sum_Q_slide]=Heat_distribution(Nphoton,abs
 % 初始化计数矩阵
 for i5=1:Nphoton
 
-    % 找出落在这个区域内的粒子
-
 
     r_partical=absorbed_photons_r(i5, 1)/voxel_dim_r;     % r 的索引
     n1=1;
