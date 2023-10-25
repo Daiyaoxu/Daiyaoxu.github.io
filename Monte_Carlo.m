@@ -20,19 +20,19 @@ absorbed_photons = zeros(Nphoton,3);
                 z = photon_pos(3);
 
                 if  xi1 < Pabsorption
-                    % 吸收事件
+                    
                     absorbed_photons(i3, 1) = photon_pos(1);
                     absorbed_photons(i3, 2) = photon_pos(2);
                     absorbed_photons(i3, 3) = photon_pos(3);
                     break; % 结束该光子的循环
 
                 elseif (Pabsorption<=xi1)&&(xi1 <= (Pscattering + Pabsorption))
-                    % 散射事件
+                    
                     photon_dir = scatterDirection(photon_dir, g);
 
                 end
                 
-                % 移动光子
+               
                 photon_pos_next = photon_pos + photon_dir * photon_path_length(delta_s);
                 
                 r = sqrt(photon_pos_next(1,1)^2 + photon_pos_next(1,2)^2);
